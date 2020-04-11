@@ -1,7 +1,7 @@
 module.exports = {
   title: `seunghyun's devlog`,
   description: `유승현의 개발 블로그입니다. 개인적으로 공부한 내용이나, 모아두었던 글을 공유하고 있습니다.`,
-  author: `Seunghyun Yu`,
+  author: `SeunghyunYu`,
   introduction: `기술과 개발자의 삶에 대해 다른 사람들과 소통하고 함께 성장하고 싶은 프론트엔드 개발자입니다. 소프트웨어 장인이 되기 위해 한 걸음 한 걸음 나아가고 있습니다.`,
   siteUrl: `https://seunghyun.dev`, // Your blog site url
   social: {

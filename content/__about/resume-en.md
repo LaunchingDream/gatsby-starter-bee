@@ -8,7 +8,7 @@ lang: 'en'
 
 <div align="center">
 
-yshyun123@mgial.com
+yshyun123@gmail.com
 <div>
 _Thank you for reading my resume. If you want to contact me, Please send me an email._
 </div>
