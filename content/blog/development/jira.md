@@ -1,7 +1,6 @@
-
 ---
 title: Jira, Bitbucket을 활용한 업무 공유 및 프로젝트 관리
-date: 2020-04-011 13:00:00
+date: 2020-04-11 13:00:00
 category: development
 thumbnail: './images/atomic-design.png'
 draft: false
